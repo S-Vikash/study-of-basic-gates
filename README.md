@@ -83,6 +83,7 @@ endmodule
 ```
  
 **Logic symbol & Truthtable**
+
 <img width="437" height="824" alt="image" src="https://github.com/user-attachments/assets/51c88674-e273-40b7-bec2-bfc1a1567bc0" />
 
 
